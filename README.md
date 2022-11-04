@@ -9,6 +9,8 @@ Practical
 6. Write a program to implement FCFS scheduling algorithm.
 7. Write a program to implement Round Robin scheduling algorithm.
 8. Write a program to implement SJF scheduling algorithm.
-9. Write a program to implement non-preemptive priority based scheduling algorithm. 10. Write a program to implement preemptive priority based scheduling algorithm. 11. Write a program to implement SRJF scheduling algorithm.
+9. Write a program to implement non-preemptive priority based scheduling algorithm. 
+10. 10. Write a program to implement preemptive priority based scheduling algorithm. 
+11. 11. Write a program to implement SRJF scheduling algorithm.
 12. Write a program to calculate sum of n numbers using thread library.
 13. Write a program to implement first-fit, best-fit and worst-fit allocation strategies.
